@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 6856f6b82ae7a46cb957bb351f9af99e
+timeCreated: 1485133629
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tank
+    21300002: head
+    21300004: body
+    21300006: arm_upper_right
+    21300008: arm_upper_left
+    21300010: arm_lower_right
+    21300012: arm_lower_left
+    21300014: armor
+    21300016: thigh_right
+    21300018: calf_right
+    21300020: thigh_left
+    21300022: calf_left
+    21300024: root_right
+    21300026: foot_left
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tank
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 669
+        width: 161
+        height: 257
+      alignment: 9
+      pivot: {x: 0.9940468, y: 0.122704886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 732
+        width: 161
+        height: 217
+      alignment: 9
+      pivot: {x: 0.34868154, y: 0.020038657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 172
+        height: 230
+      alignment: 9
+      pivot: {x: 0.51321286, y: 0.3056751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_upper_right
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 501
+        width: 92
+        height: 122
+      alignment: 9
+      pivot: {x: 0.38071907, y: 0.8550185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_upper_left
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 501
+        width: 92
+        height: 122
+      alignment: 9
+      pivot: {x: 0.40037337, y: 0.8572168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_lower_right
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 388
+        width: 166
+        height: 62
+      alignment: 9
+      pivot: {x: 0.02613996, y: 0.7246881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_lower_left
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 386
+        width: 167
+        height: 79
+      alignment: 9
+      pivot: {x: 0.025143925, y: 0.6182846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: armor
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 163
+        height: 144
+      alignment: 9
+      pivot: {x: 0.55397344, y: 0.01429579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thigh_right
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 166
+        width: 107
+        height: 146
+      alignment: 9
+      pivot: {x: 0.32904622, y: 0.837807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calf_right
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 179
+        width: 86
+        height: 135
+      alignment: 9
+      pivot: {x: 0.70478785, y: 0.7671276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: thigh_left
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 179
+        width: 107
+        height: 144
+      alignment: 9
+      pivot: {x: 0.34174383, y: 0.83932346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calf_left
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 190
+        width: 86
+        height: 135
+      alignment: 9
+      pivot: {x: 0.7340429, y: 0.7422793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: root_right
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 49
+        width: 146
+        height: 80
+      alignment: 9
+      pivot: {x: 0.29334542, y: 0.7210857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot_left
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 66
+        width: 146
+        height: 80
+      alignment: 9
+      pivot: {x: 0.2832579, y: 0.72892493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
