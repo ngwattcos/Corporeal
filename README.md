@@ -1,5 +1,5 @@
 # Corporeal
-A 2D platformer that requires manipulating force fields and harvesting exotic lifeforms - 2017 NJ TSA Video Game Design Submission
+A 2D platformer that requires manipulating force fields and harvesting exotic lifeforms to survive - 2017 NJ TSA Video Game Design Submission
 
 ## Screenshots
 ![The iconic screenshot.](https://github.com/ngwattcos/Corporeal/blob/master/screenshots/iconic.png)
